@@ -1,0 +1,19 @@
+body{
+	background-color: azure;
+	padding: 20px;
+	border: 1px solid aquamarine;
+}
+
+section.employment{
+	border: 1px solid black;
+	padding: 0px 15px;
+	background-color: violet;
+	margin: 10px;
+}
+
+section.education{
+	border: 1px solid blue;
+	padding: 0px 15px;
+	background-color: orange;
+	margin: 10px;
+}
